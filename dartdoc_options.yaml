@@ -32,4 +32,3 @@ dartdoc:
     - reexported-private-api-across-packages
     - unknown-file
     - unknown-macro
-    - unresolved-doc-reference
